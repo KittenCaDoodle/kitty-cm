@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Burbank Small';
+    src: url('/fonts/Burbank/BurbankSmallMedium.otf')
+}
+
+@font-face {
+    font-family: 'Burbank Big Regular';
+    src: url('/fonts/Burbank/BurbankBigRegularBold.otf')
+}
+
+@font-face {
+    font-family: 'Burbank Big Wide';
+    src: url('/fonts/Burbank/BurbankBigWideMedium.otf')
+}
+
+@font-face {
+    font-family: 'Burbank Small Black';
+    src: url('/fonts/Burbank/BurbankSmallBlack.otf')
+}
